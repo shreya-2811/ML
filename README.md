@@ -1,2 +1,2 @@
 # ML
-Practice different techniques under ML/DL
+Practice different techniques under ML - Reco
