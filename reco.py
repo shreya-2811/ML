@@ -74,7 +74,7 @@ predictions
 
 
 
-#link: https://github.com/nikitaa30/Recommender-Systems/blob/master/matrix_factorisation_svd.py
+
   
 
 
